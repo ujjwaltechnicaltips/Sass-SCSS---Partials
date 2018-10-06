@@ -1,0 +1,14 @@
+main.scss
+@import'header';
+-----------------------------
+
+_header.scss
+
+$text_color:yellow; $header-bgcolor:red;
+
+header
+{
+background-color:$header-bg-color; color:$text-color;
+}
+
+------------------------------------------------
